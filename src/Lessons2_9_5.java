@@ -11,5 +11,8 @@ public class Lessons2_9_5 {
         Figures hexagon = new Figures("hexagon");
         Figures ellipse = new Figures("ellipse");
         Figures circle = new Figures("circle");
+        Triangles isoscelestriangles = new Triangles("isoscelestriangles");
+        Triangles equilateraltriangles = new Triangles("equilateraltriangles");
+        Triangles righttriangles = new Triangles("righttriangles");
     }
 }
