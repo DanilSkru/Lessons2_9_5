@@ -1,5 +1,5 @@
 import Figures.Figures;
-import Figures.Quadrilaterals.Quadrilaterals;
+import Figures.Quadrilaterals.*;
 import Figures.Triangles.Triangles;
 
 public class Lessons2_9_5 {
@@ -14,5 +14,11 @@ public class Lessons2_9_5 {
         Triangles isoscelestriangles = new Triangles("isoscelestriangles");
         Triangles equilateraltriangles = new Triangles("equilateraltriangles");
         Triangles righttriangles = new Triangles("righttriangles");
+        Quadrilaterals convexquadrilateral = new Quadrilaterals("convexquadrilateral");
+        Quadrilaterals parallelogram = new Quadrilaterals("parallelogram");
+        Quadrilaterals rectangle = new Quadrilaterals("rectangle");
+        Quadrilaterals square = new Quadrilaterals("square");
+        Quadrilaterals rhombus = new Quadrilaterals("rhombus");
+        Quadrilaterals trapeze = new Quadrilaterals("trapeze");
     }
 }
