@@ -1,5 +1,5 @@
 import Figures.Figures;
-import Figures.Quadrilaterals.*;
+import Figures.Quadrilaterals.Quadrilaterals;
 import Figures.Triangles.Triangles;
 
 public class Lessons2_9_5 {
