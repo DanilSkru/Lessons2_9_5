@@ -5,10 +5,11 @@ import Figures.Triangles.Triangles;
 public class Lessons2_9_5 {
     public static void main(String[] args) {
         Figures figure = new Figures();
-        figure.info();
         Triangles triangle = new Triangles();
-        triangle.info();
         Quadrilaterals quadrilateral = new Quadrilaterals();
-        quadrilateral.info();
+        Figures pentagon = new Figures("pentagon");
+        Figures hexagon = new Figures("hexagon");
+        Figures ellipse = new Figures("ellipse");
+        Figures circle = new Figures("circle");
     }
 }
